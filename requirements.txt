@@ -1,0 +1,6 @@
+aiogram
+aiohttp
+cryptography
+pyTelegramBotAPI
+requests
+psutil
